@@ -1,2 +1,1 @@
-# Cafe-Landing-Page
-Homepage for future Seattle Cafe and lounge
+this should be added to the readme file
