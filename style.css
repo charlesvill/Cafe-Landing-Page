@@ -63,8 +63,8 @@ margin:0;
 
 .landingphoto{
     display:flex;
-    width:400px;
-    height:200px;
+    width:500px;
+    height:100%;
 }
 .contentcontainer{
     display:flex;
